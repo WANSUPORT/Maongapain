@@ -26,7 +26,6 @@ Ihh kepo
 
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/WANSUPORT)
 
-<h1> <img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/profile.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/github_icon.png" width="80px">](https://github.com/WANSUPORT) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/insta_icon.png" width="80px">](https://instagram.com/wansz_)
 
